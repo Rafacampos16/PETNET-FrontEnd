@@ -136,7 +136,7 @@ npm run dev
 ---
 
 ## 📸 Protótipos
-> *(Adicione prints das telas aqui ou link do Figma, se houver.)*
+(https://www.figma.com/design/ZWN7I2H0pkGLh5n4YCt7iJ/PETNET?node-id=0-1&t=Q9pl4mEeGBX3fPmF-1)
 
 ---
 
